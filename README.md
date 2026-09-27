@@ -3,6 +3,8 @@
 Robotics perception & state estimation · C++ / ROS  
 Software Engineering undergraduate at Guilin University of Technology, Class of 2028.
 
+[![View Résumé (PDF)](assets/view-resume.svg)](assets/Yaodong-Hong-Resume.pdf)
+
 [Portfolio & demos](https://hydarealman.github.io/) · [Blog](https://hydarealman.github.io/yaodong-journal/) · [Email](mailto:2281306133@qq.com)
 
 ### Selected work
